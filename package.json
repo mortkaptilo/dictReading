@@ -1,0 +1,13 @@
+{
+  "name": "libfordictreading",
+  "version": "0.1.0",
+  "description": "tool for reading .dict/.dict.dz files ",
+  "type": "module",
+  "main": "src/dict.js",
+  "scripts": {
+    "run": "node ./src/dict.js"
+  },
+  
+  "author": "mortkaptilo",
+  "license": "MIT"
+}
